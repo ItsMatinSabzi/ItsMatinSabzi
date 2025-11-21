@@ -32,7 +32,7 @@ Feel free to reach out if you want to collaborate on a project, share ideas, or 
 
 Thank you for visiting my profile! 🙏
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/> <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine&logoColor=white" alt="Unreal Engine Badge"/> <img src="https://img.shields.io/badge/Forex%20Trading-0A66C2?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Forex Trading Badge"/> <img src="https://img.shields.io/badge/Trade-00CC99?style=for-the-badge&logo=investingdotcom&logoColor=white" alt="Trade Badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/> <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal%20engine&logoColor=white" alt="Unreal Engine Badge"/> <img src="https://img.shields.io/badge/Forex%20Trading-0A66C2?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Forex Trading Badge"/> <img src="https://img.shields.io/badge/Trade-00CC99?style=for-the-badge&logo=investingdotcom&logoColor=white" alt="Trade Badge"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" height="30" width="30" />
 
 
 
